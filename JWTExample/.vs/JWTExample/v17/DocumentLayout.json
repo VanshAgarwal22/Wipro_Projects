@@ -1,0 +1,185 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Vansh\\Desktop\\react\\database connect crud\\JWTExample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Vansh\\Desktop\\react\\database connect crud\\JWTExample\\JWTExample\\Models\\User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:JWTExample\\Models\\User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Vansh\\Desktop\\react\\database connect crud\\JWTExample\\JWTExample\\Models\\AuthService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:JWTExample\\Models\\AuthService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Vansh\\Desktop\\react\\database connect crud\\JWTExample\\JWTExample\\Models\\IAuthService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:JWTExample\\Models\\IAuthService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Vansh\\Desktop\\react\\database connect crud\\JWTExample\\JWTExample\\Models\\JwtSettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:JWTExample\\Models\\JwtSettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Vansh\\Desktop\\react\\database connect crud\\JWTExample\\JWTExample\\Models\\AppDBContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:JWTExample\\Models\\AppDBContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Vansh\\Desktop\\react\\database connect crud\\JWTExample\\JWTExample\\Controllers\\ProtectedController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:JWTExample\\Controllers\\ProtectedController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Vansh\\Desktop\\react\\database connect crud\\JWTExample\\JWTExample\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:JWTExample\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Vansh\\Desktop\\react\\database connect crud\\JWTExample\\JWTExample\\Models\\LoginRequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:JWTExample\\Models\\LoginRequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Vansh\\Desktop\\react\\database connect crud\\JWTExample\\JWTExample\\Controllers\\AuthController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:JWTExample\\Controllers\\AuthController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Vansh\\Desktop\\react\\database connect crud\\JWTExample\\JWTExample\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:JWTExample\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\Vansh\\Desktop\\react\\database connect crud\\JWTExample\\JWTExample\\Models\\AuthService.cs",
+              "RelativeDocumentMoniker": "JWTExample\\Models\\AuthService.cs",
+              "ToolTip": "C:\\Users\\Vansh\\Desktop\\react\\database connect crud\\JWTExample\\JWTExample\\Models\\AuthService.cs",
+              "RelativeToolTip": "JWTExample\\Models\\AuthService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACAAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T04:40:29.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\Vansh\\Desktop\\react\\database connect crud\\JWTExample\\JWTExample\\Models\\IAuthService.cs",
+              "RelativeDocumentMoniker": "JWTExample\\Models\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\Vansh\\Desktop\\react\\database connect crud\\JWTExample\\JWTExample\\Models\\IAuthService.cs",
+              "RelativeToolTip": "JWTExample\\Models\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T04:39:13.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "JwtSettings.cs",
+              "DocumentMoniker": "C:\\Users\\Vansh\\Desktop\\react\\database connect crud\\JWTExample\\JWTExample\\Models\\JwtSettings.cs",
+              "RelativeDocumentMoniker": "JWTExample\\Models\\JwtSettings.cs",
+              "ToolTip": "C:\\Users\\Vansh\\Desktop\\react\\database connect crud\\JWTExample\\JWTExample\\Models\\JwtSettings.cs",
+              "RelativeToolTip": "JWTExample\\Models\\JwtSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T04:30:19.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\Vansh\\Desktop\\react\\database connect crud\\JWTExample\\JWTExample\\Models\\AppDBContext.cs",
+              "RelativeDocumentMoniker": "JWTExample\\Models\\AppDBContext.cs",
+              "ToolTip": "C:\\Users\\Vansh\\Desktop\\react\\database connect crud\\JWTExample\\JWTExample\\Models\\AppDBContext.cs",
+              "RelativeToolTip": "JWTExample\\Models\\AppDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T04:27:53.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProtectedController.cs",
+              "DocumentMoniker": "C:\\Users\\Vansh\\Desktop\\react\\database connect crud\\JWTExample\\JWTExample\\Controllers\\ProtectedController.cs",
+              "RelativeDocumentMoniker": "JWTExample\\Controllers\\ProtectedController.cs",
+              "ToolTip": "C:\\Users\\Vansh\\Desktop\\react\\database connect crud\\JWTExample\\JWTExample\\Controllers\\ProtectedController.cs",
+              "RelativeToolTip": "JWTExample\\Controllers\\ProtectedController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T04:58:37.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Vansh\\Desktop\\react\\database connect crud\\JWTExample\\JWTExample\\Program.cs",
+              "RelativeDocumentMoniker": "JWTExample\\Program.cs",
+              "ToolTip": "C:\\Users\\Vansh\\Desktop\\react\\database connect crud\\JWTExample\\JWTExample\\Program.cs",
+              "RelativeToolTip": "JWTExample\\Program.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAAB4AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T04:42:47.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Vansh\\Desktop\\react\\database connect crud\\JWTExample\\JWTExample\\Models\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "JWTExample\\Models\\LoginRequest.cs",
+              "ToolTip": "C:\\Users\\Vansh\\Desktop\\react\\database connect crud\\JWTExample\\JWTExample\\Models\\LoginRequest.cs",
+              "RelativeToolTip": "JWTExample\\Models\\LoginRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T04:42:12.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Vansh\\Desktop\\react\\database connect crud\\JWTExample\\JWTExample\\Models\\User.cs",
+              "RelativeDocumentMoniker": "JWTExample\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Vansh\\Desktop\\react\\database connect crud\\JWTExample\\JWTExample\\Models\\User.cs",
+              "RelativeToolTip": "JWTExample\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T04:26:48.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Vansh\\Desktop\\react\\database connect crud\\JWTExample\\JWTExample\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "JWTExample\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Vansh\\Desktop\\react\\database connect crud\\JWTExample\\JWTExample\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "JWTExample\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T04:56:12.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Vansh\\Desktop\\react\\database connect crud\\JWTExample\\JWTExample\\appsettings.json",
+              "RelativeDocumentMoniker": "JWTExample\\appsettings.json",
+              "ToolTip": "C:\\Users\\Vansh\\Desktop\\react\\database connect crud\\JWTExample\\JWTExample\\appsettings.json",
+              "RelativeToolTip": "JWTExample\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-08T04:24:14.562Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

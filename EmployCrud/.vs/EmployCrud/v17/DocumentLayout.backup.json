@@ -1,0 +1,107 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Vansh\\Desktop\\react\\database connect crud\\EmployCrud\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0047B002-CD83-49D7-8E40-63DE6982098B}|EmployCrud\\EmployCrud.csproj|c:\\users\\vansh\\desktop\\react\\database connect crud\\employcrud\\employcrud\\controllers\\employscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0047B002-CD83-49D7-8E40-63DE6982098B}|EmployCrud\\EmployCrud.csproj|solutionrelative:employcrud\\controllers\\employscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0047B002-CD83-49D7-8E40-63DE6982098B}|EmployCrud\\EmployCrud.csproj|c:\\users\\vansh\\desktop\\react\\database connect crud\\employcrud\\employcrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0047B002-CD83-49D7-8E40-63DE6982098B}|EmployCrud\\EmployCrud.csproj|solutionrelative:employcrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0047B002-CD83-49D7-8E40-63DE6982098B}|EmployCrud\\EmployCrud.csproj|c:\\users\\vansh\\desktop\\react\\database connect crud\\employcrud\\employcrud\\models\\efcoredbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0047B002-CD83-49D7-8E40-63DE6982098B}|EmployCrud\\EmployCrud.csproj|solutionrelative:employcrud\\models\\efcoredbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0047B002-CD83-49D7-8E40-63DE6982098B}|EmployCrud\\EmployCrud.csproj|c:\\users\\vansh\\desktop\\react\\database connect crud\\employcrud\\employcrud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0047B002-CD83-49D7-8E40-63DE6982098B}|EmployCrud\\EmployCrud.csproj|solutionrelative:employcrud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0047B002-CD83-49D7-8E40-63DE6982098B}|EmployCrud\\EmployCrud.csproj|c:\\users\\vansh\\desktop\\react\\database connect crud\\employcrud\\employcrud\\models\\employ.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0047B002-CD83-49D7-8E40-63DE6982098B}|EmployCrud\\EmployCrud.csproj|solutionrelative:employcrud\\models\\employ.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmploysController.cs",
+              "DocumentMoniker": "C:\\Users\\Vansh\\Desktop\\react\\database connect crud\\EmployCrud\\EmployCrud\\Controllers\\EmploysController.cs",
+              "RelativeDocumentMoniker": "EmployCrud\\Controllers\\EmploysController.cs",
+              "ToolTip": "C:\\Users\\Vansh\\Desktop\\react\\database connect crud\\EmployCrud\\EmployCrud\\Controllers\\EmploysController.cs",
+              "RelativeToolTip": "EmployCrud\\Controllers\\EmploysController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T10:17:43.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Vansh\\Desktop\\react\\database connect crud\\EmployCrud\\EmployCrud\\Program.cs",
+              "RelativeDocumentMoniker": "EmployCrud\\Program.cs",
+              "ToolTip": "C:\\Users\\Vansh\\Desktop\\react\\database connect crud\\EmployCrud\\EmployCrud\\Program.cs",
+              "RelativeToolTip": "EmployCrud\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T10:14:14.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Vansh\\Desktop\\react\\database connect crud\\EmployCrud\\EmployCrud\\appsettings.json",
+              "RelativeDocumentMoniker": "EmployCrud\\appsettings.json",
+              "ToolTip": "C:\\Users\\Vansh\\Desktop\\react\\database connect crud\\EmployCrud\\EmployCrud\\appsettings.json",
+              "RelativeToolTip": "EmployCrud\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-04T10:11:48.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EFCoreDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Vansh\\Desktop\\react\\database connect crud\\EmployCrud\\EmployCrud\\Models\\EFCoreDbContext.cs",
+              "RelativeDocumentMoniker": "EmployCrud\\Models\\EFCoreDbContext.cs",
+              "ToolTip": "C:\\Users\\Vansh\\Desktop\\react\\database connect crud\\EmployCrud\\EmployCrud\\Models\\EFCoreDbContext.cs",
+              "RelativeToolTip": "EmployCrud\\Models\\EFCoreDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T10:09:50.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Employ.cs",
+              "DocumentMoniker": "C:\\Users\\Vansh\\Desktop\\react\\database connect crud\\EmployCrud\\EmployCrud\\Models\\Employ.cs",
+              "RelativeDocumentMoniker": "EmployCrud\\Models\\Employ.cs",
+              "ToolTip": "C:\\Users\\Vansh\\Desktop\\react\\database connect crud\\EmployCrud\\EmployCrud\\Models\\Employ.cs",
+              "RelativeToolTip": "EmployCrud\\Models\\Employ.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T09:32:42.298Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

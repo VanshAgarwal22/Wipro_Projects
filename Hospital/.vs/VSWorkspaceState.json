@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Hospital",
+    "\\Hospital\\bin",
+    "\\Hospital\\bin\\Debug",
+    "\\Hospital\\bin\\Release",
+    "\\Hospital\\Controllers",
+    "\\Hospital\\Data",
+    "\\Hospital\\Models",
+    "\\Hospital\\obj",
+    "\\Hospital\\Properties"
+  ],
+  "SelectedNode": "\\Hospital\\Controllers\\PatientsController.cs",
+  "PreviewInSolutionExplorer": false
+}
